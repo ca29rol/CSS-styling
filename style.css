@@ -1,0 +1,9 @@
+.container{
+    border: dotted 1px green;
+}
+.inner-container{
+    padding: 20px;
+    margin: 5%;
+    border: 1px solid purple;
+
+}
